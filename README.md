@@ -7,6 +7,7 @@
 
 Notes:
 Your main goal is to build and train a model that has some predictive value.
+
 Think of it as a *Prototype*, that needs further testing and improvements.
 
 Feature Engineering is optional
